@@ -1,0 +1,15 @@
+var cokePrice = 30;
+var eggPrice = 20;
+// console.log(cokePrice);
+// console.log(eggPrice);
+//  console.log(cokePrice + eggPrice);
+// var totalPrice = cokePrice + eggPrice;
+// console.log(totalPrice);
+// var priceDifference = cokePrice - eggPrice;
+// console.log(priceDifference);
+var money = 5000;
+var player = 10;
+// var eachPlayer = money/player;
+// console.log(eachPlayer);
+var totalPrice = cokePrice * eggPrice;
+console.log(totalPrice);
